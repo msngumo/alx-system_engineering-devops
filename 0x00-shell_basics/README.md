@@ -16,3 +16,4 @@ FILE14: script that copies all the HTML files from the current working directory
 FILE15: script that moves all files beginning with an uppercase letter to the directory /tmp/u.You can assume that the directory /tmp/u will exist when we will run your script
 FILE16: Script that deletes all files in the current working directory that end with the character ~
 FILE17: script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.You are only allowed to use two spaces (and lines) in your script, not more.
+FILE18: a command that lists all the files and directories of the current directory, separated by commas (,)
