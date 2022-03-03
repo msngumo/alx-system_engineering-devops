@@ -12,3 +12,4 @@ FILE9: script that sets the mode of the file hello to rwxr-x-wx
 FILE10: script that sets the mode of the file hello the same as olleh’s mode 
 FILE11: script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 FILE12: script that creates a directory called my_dir with permissions 751 in the working directory.
+FILE13: script that changes the group owner to school for the file hello
