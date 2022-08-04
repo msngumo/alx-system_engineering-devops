@@ -1,0 +1,10 @@
+#!/usr/bin/bash
+
+#Bash script that displays Best School 10 times using until loop
+
+num=0
+until [ $num -ge 10 ]
+do
+	echo "Best School"
+	num=$(( num+1 ))
+done
